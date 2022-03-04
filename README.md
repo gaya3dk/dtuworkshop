@@ -36,11 +36,11 @@ Data Science & Engineering, and Machine Learning.
 
 
 ## Troubleshooting
-If Azure setup doesn't work, please use a pre-created Databricks workspace [link](https://adb-2395110661127738.18.azuredatabricks.net/?o=2395110661127738#) and 
+If Azure setup doesn't work, please use a pre-created Databricks workspace [link](https://adb-6133228101285352.12.azuredatabricks.net/?o=6133228101285352#) and 
 login with following credentials
 ``` 
 username - dtuworkshop@outlook.com
-password - workshop@123
+password - see whiteboard/screen
 
 ```
  

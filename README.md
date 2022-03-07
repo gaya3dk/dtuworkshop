@@ -30,7 +30,9 @@ Data Science & Engineering, and Machine Learning.
 - Run code.. TBF
 
 ## Data cleaning and preparation
-<lines of code>
+
+See `dtu_data_engineering.ipynb`
+
 ## Data Analysis 
 <answer questions - lines of code> 
 

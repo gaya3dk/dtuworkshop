@@ -5,7 +5,7 @@
 This workshop content helps one get started on data engineering and data science by showing hands-on - how to use a sample dataset 
 to spot patterns and answer important business questions
 
-In this workshop, we will use a dataset about "TBD" from [Kaggle](https://www.kaggle.com/), analyze it using Python 
+In this workshop, we will use a dataset about "E-Commerce Data" from [Kaggle](https://www.kaggle.com/benroshan/ecommerce-data), analyze it using Python 
 on Azure Databricks and run queries on it (TBD)
 
 [Databricks](https://databricks.com/) is a comprehensive data analytics platform optimized for developing data intensive applications: 
@@ -30,7 +30,9 @@ Data Science & Engineering, and Machine Learning.
 - Run code.. TBF
 
 ## Data cleaning and preparation
-<lines of code>
+
+See `dtu_data_engineering.ipynb`
+
 ## Data Analysis 
 <answer questions - lines of code> 
 

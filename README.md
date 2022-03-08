@@ -38,7 +38,7 @@ username - dtuworkshop@outlook.com
 password - see whiteboard/screen
 ```
    
-###Databricks Workspace View
+### Databricks Workspace View
 
 ![Databricks Workspace](images/databricks.png)  
                 
@@ -50,7 +50,7 @@ password - see whiteboard/screen
 
 ## Data engineering - Cleaning and Preparation
 
-See `dtu_data_engineering.ipynb`
+See [dtu_data_engineering.ipynb](dtu_data_engineering.ipynb)
 
 ## Data Analytics 
 <answer questions - lines of code> 

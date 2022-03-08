@@ -1,5 +1,17 @@
 # How to create free azure databricks account
 
+## Terminology in Azure cloud related to this setup
+- Azure portal (the website where you start the journey)
+- Azure subscription: a named 'financial group' for you to manage payment and resource groups
+  - Azure resource group: a named group to allow you to group/create resources
+    - Azure resource: azure databricks is one of the resource
+  
+#### Terminology in azure databricks
+- databricks service
+  - databricks workspace: ad-hoc code can come in here; 
+  - cluster/compute: a group of virtual machines with memory and CPU power
+  - data: mount disk for the workspace to use
+
 ## URL to start
 
 - Crate free account with azure databricks: https://azure.microsoft.com/en-us/free/databricks/
@@ -44,7 +56,7 @@ Note: Phone number might be tied to your (free) subscription, and prevent you fr
 
 ![image.png](.attachments/Picture 07.png)
 
-- Continue to Azure portal
+- Continue to **Azure portal**
 
 ![image.png](.attachments/Picture 08.png)
 
@@ -67,6 +79,8 @@ Note: Phone number might be tied to your (free) subscription, and prevent you fr
 - Launch workspace
 
 ![image.png](.attachments/Picture 13.png)
+
+From here onward, the hands-on workshop will show you how to use the workspace, cluster/compute to process data
 
 ## Other options:
 - Use student offer, if the school has account

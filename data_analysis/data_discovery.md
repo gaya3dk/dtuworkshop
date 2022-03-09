@@ -1,6 +1,7 @@
 # Dataset discovery
+Understand the scheme/structure, PK(primary key), sample data
 
-## sales_order_header
+## sales_order_header: who/when/where
 Data discovery result: there are `Order Id` being null; PK is `Order Id`
 ```text
 Order ID:string
@@ -19,7 +20,7 @@ Sample:
 +--------+----------+------------+-------+---------+
 ```
 
-## sales_order_detail
+## sales_order_detail: what/how much
 Data discovery result: aggregated away `product id` (if there are any). Composite Key is `Order Id`,`Category`,`sub-category`
 ```text
 Order ID:string

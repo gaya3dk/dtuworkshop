@@ -53,6 +53,10 @@ password - see whiteboard/screen
 See [dtu_data_engineering.ipynb](dtu_data_engineering.ipynb)
 
 ## Data Analytics 
-<answer questions - lines of code> 
 
+- See [Data Discovery](data_analysis/data_discovery.md)
+    - [discovery notebook](data_analysis/data_discovery.ipynb)
+- See [Data Analysis](data_analysis/data_analysis.md)
+    - Basic analysis: [The analysis notebook](data_analysis/data_analysis.ipynb)
+    - Optional: [The performance helper notebook](data_analysis/materialize_joins.ipynb)
 
